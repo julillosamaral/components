@@ -69,7 +69,8 @@
   },
   "include": [
     "src/**/*",
-    "src/core/decs.d.ts"
+    "src/core/decs.d.ts",
+    "resources/*"
   ],
   "exclude": ["src/**/*.test.ts", "src/test"]
 }
